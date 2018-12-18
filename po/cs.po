@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-10-08 11:22+0200\n"
-"PO-Revision-Date: 2018-10-02 11:18+0000\n"
+"PO-Revision-Date: 2018-12-18 11:18+0000\n"
 "Last-Translator: Roxy1139 <vro@wo.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -21433,7 +21433,7 @@ msgstr "Chování přehrávače po stop/exit : "
 
 #: enigma2-plugins/twitchtv/src/plugin.py:373
 msgid "Videos"
-msgstr ""
+msgstr "videa"
 
 #: enigma2-plugins/merlinepg/src/plugin.py:605
 #: enigma2-plugins/merlinepg/src/plugin.py:922
@@ -21698,7 +21698,7 @@ msgstr "Sledujte živé vysílání EuroticTV přes HTTP"
 
 #: enigma2-plugins/twitchtv/src/plugin.py:372
 msgid "Watch Live"
-msgstr ""
+msgstr "sledovat živě"
 
 #: enigma2-plugin-stalkerclient/StalkerClient/plugin.py:104
 msgid "Watch Stalker Channels"
@@ -21710,7 +21710,7 @@ msgstr "živé sdílení eUroticTV přes HTTP"
 
 #: enigma2-plugins/twitchtv/meta/plugin_twitchtv.xml./enigma2-plugins/twitchtv/meta/plugin_twitchtv.xml
 msgid "Watch livestreams and vods from twitch.tv"
-msgstr ""
+msgstr "sledovat živé vysílání a vods z twitch.tv"
 
 #: enigma2-plugins/yttrailer/meta/plugin_yttrailer.xml./enigma2-plugins/yttrailer/meta/plugin_yttrailer.xml
 msgid ""
@@ -22083,11 +22083,11 @@ msgstr ""
 "Dát box do režimu spánku, pokud je spuštěný manuálně ? Při manuálním startu "
 "boxu nepůjde do pohotovosti před dalším intervalem vypnutí, když je tato "
 "volba nastavená. Tato volba je pouze aktivní, když je nastavený režim spánku "
-"po startu.  "
+"po startu. "
 
 #: enigma2-plugins/twitchtv/src/plugin.py:532
 msgid "Which channel do you want to add?"
-msgstr ""
+msgstr "Který kanál chcete přidat ?"
 
 #: enigma2-plugin-permanenttimeshift/src/plugin.py:767
 msgid "Which event do you want to save permanently?"
@@ -25039,7 +25039,7 @@ msgstr "Čekejte, prosím... (do 3min)..."
 
 #: enigma2-plugins/elektro/src/plugin.py:343
 msgid "please wait..."
-msgstr "Čekejte ..."
+msgstr "...čekejte ..."
 
 #: enigma2-plugins/emission/src/EmissionBandwidth.py:59
 msgid "preferred"
